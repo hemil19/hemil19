@@ -18,7 +18,7 @@ var hemil = {
   coreskills: [MySQL, Python3, Statistics, Machine Learning Algorithms, Deep Learning, Data Cleaning, Data Visualisation],
   tools: [Jupyter Notebook, Rstudio, Tableau],
   frameworks: [Plotly, Tensorflow, Scikit-Learn],
-  about: "I am an engineer and aspiring data science student who is passionate about learning, creating solutions, and leveraging technologies.
+  about: "I am an engineer and aspiring data science student who is passionate about learning and leveraging technologies.
           I have worked with machine learning, deep learning, artificial intelligence, and business analytics problems.
           I am currently exploring many horizons. :)"
 }
