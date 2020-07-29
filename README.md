@@ -4,7 +4,6 @@
 
 
 [![Linkedin: hemil-shah](https://img.shields.io/badge/-hemilshah-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemil19/)](https://www.linkedin.com/in/hemil19/)
-[![GitHub hemil19](https://img.shields.io/github/followers/hemil19?label=follow&style=social)](https://github.com/hemil19/)
 [![Medium @https://medium.com/@hemilshah68](https://img.shields.io/badge/@hemilshah68-833AB4?style=flat&logo=Medium)](https://medium.com/@hemilshah68)
 [![Kaggle @https://www.kaggle.com/hemilshah](https://img.shields.io/badge/@hemilshah-833AB4?style=flat&logo=Kaggle)](https://www.kaggle.com/hemilshah)
 [![Quora @https://www.quora.com/profile/Hemil-Shah-5](https://img.shields.io/badge/@hemilshah-833AB4?style=flat&logo=Quora)](https://www.quora.com/profile/Hemil-Shah-5)
