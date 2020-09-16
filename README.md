@@ -14,6 +14,3 @@
   <br>
   
 </p>
-
-### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40"> :octocat: My Stats 
-![Github stats](https://github-readme-stats.vercel.app/api?username=hemil19&show_icons=true&hide_border=true)
