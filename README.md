@@ -7,7 +7,7 @@
 
 <p align="center">
   <br><img src="https://github.com/punitkmryh/punitkmryh/blob/master/Developer.gif" width="450px"><br><br>
-  <samp> I am an engineer and aspiring data science student pursuing Masters in Data Science from NMIMS University Mumbai, IND who is passionate about learning and leveraging technologies.I have worked with machine learning, deep learning, artificial intelligence, and business analytics problems.I Love sharing my knowledge and my insights of learning with others through Blogging ..
+  <samp> I am an engineer and data science student for life completed my Masters in Data Science from NMIMS University Mumbai, IND who is passionate about learning and leveraging technologies.I have worked with machine learning, deep learning, artificial intelligence, and business analytics problems.I Love sharing my knowledge and my insights of learning with others through Blogging ..
     
     SkillSet: SQL, Python3, Statistics, Machine Learning, Deep Learning, Data Cleaning, Data Visualisation, ETL
   </samp>
